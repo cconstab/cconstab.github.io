@@ -1088,7 +1088,7 @@ aj2(a,b,c){var s=0,r=P.a8(t.jT),q,p,o,n,m,l,k,j,i,h,g
 var $async$ZD=P.a2(function(d,e){if(d===1)return P.a5(e,r)
 while(true)switch(s){case 0:P.e2("waiting")
 s=3
-return P.ac(G.aiE(P.rQ("https://wavi.shaduf.com/api?atp=public."+b+".ai6bh@"+a)),$async$ZD)
+return P.ac(G.aiE(P.rQ("https://wavi.ng/api?atp=public."+b+".ai6bh@"+a)),$async$ZD)
 case 3:p=e
 o=p.e
 n=B.a7f(J.aJ(U.a6i(o).c.a,"charset"))
