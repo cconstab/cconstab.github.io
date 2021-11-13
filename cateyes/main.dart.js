@@ -31417,7 +31417,7 @@ q=r>0?C.b.I(s,r-3,r-1):""
 p=r>2?C.b.I(s,r-6,r-3):""
 o=(r>6?C.b.I(s,0,r-6):"")+"."+p+"."+q
 n=l.z
-l.r=n.a+" VFO A "+o+" "+H.d(n.d)}return new M.kq(T.Jd(new T.wi(C.X,C.mH,C.mI,C.e_,m,C.fd,m,H.a([T.RU(T.Jd(L.afg(l.r,C.Ed),m,m),120,900)],t.V),m),m,m),C.h6,m)},
+l.r=n.a+" VFO A "+o+" "+H.d(n.d)}return new M.kq(T.Jd(new T.wi(C.X,C.mH,C.mI,C.e_,m,C.fd,m,H.a([T.RU(T.Jd(L.afg(l.r,C.Ed),m,m),180,900)],t.V),m),m,m),C.h6,m)},
 $S:120}
 X.qy.prototype={
 Um(){var s=this
@@ -50597,7 +50597,7 @@ C.f8=new U.n5("TextOverflow.ellipsis")
 C.rS=new U.n5("TextOverflow.visible")
 C.rT=new P.cE(0,C.ag)
 C.Ec=new R.ry(null,null,null)
-C.Ed=new A.n(!0,C.mM,null,"LED",null,null,40,null,null,5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.Ed=new A.n(!0,C.mM,null,"LED",null,null,35,null,null,5,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.wC=new P.A(3506372608)
 C.Ea=new P.rv(1)
 C.xo=new P.A(4294967040)
