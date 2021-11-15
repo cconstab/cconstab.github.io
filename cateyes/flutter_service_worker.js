@@ -7,26 +7,16 @@ const RESOURCES = {
 "assets/FontManifest.json": "9deb74709cffaaef85d43814ae4f2e2a",
 "assets/fonts/LEDSimulator.ttf": "03b71aab176b4c92000588cf93cfd0d4",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-<<<<<<< Updated upstream
-"assets/NOTICES": "eb18602f54c2f489eb53322d6c66a5fe",
-=======
 "assets/NOTICES": "a65d06cb36cd999f4b1aa24e39c5b04b",
->>>>>>> Stashed changes
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-<<<<<<< Updated upstream
-"index.html": "da57fa9369fd8bf516d7eeb5e7325e12",
-"/": "da57fa9369fd8bf516d7eeb5e7325e12",
-"main.dart.js": "af0571988395a7e922e555978fbe6b89",
-=======
-"index.html": "6003131577691cd69f32decd46e8b5d4",
-"/": "6003131577691cd69f32decd46e8b5d4",
+"index.html": "e4f66b4e6ca12cdb474d89a18ae39407",
+"/": "e4f66b4e6ca12cdb474d89a18ae39407",
 "main.dart.js": "f03c47bf19265f1f663039c5058da265",
->>>>>>> Stashed changes
 "manifest.json": "4a9b23ed1296ba2acc6141e3f5385572",
 "version.json": "a64026d10ae32fe5bb7df0310d5c6083"
 };
