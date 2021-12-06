@@ -4,7 +4,7 @@
 If you hit any issues with the application then please just raise an [issue ticket](https://github.com/cconstab/catweb/issues) with as much detail as possible.
 
 ## [CATWEB](https://github.com/cconstab/catweb#readme)
-CATWEB is an open source project, we welcome PR's and issuesbeing raised to improve the application!
+CATWEB is an open source project, we welcome PR's and issues being raised to improve the application!
 
 ![image](https://user-images.githubusercontent.com/6131216/143327480-275d1d74-9e31-40f9-92e6-85d7f4202304.png)
 
