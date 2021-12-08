@@ -13,4 +13,4 @@ Screenshot of IC-7100 and the website showing listening at 7.185Mhz LSB
 ![IMG_20210903_142218](https://user-images.githubusercontent.com/6131216/132066553-28544268-82c9-4ed9-ac91-151c71cc1070.jpg)
 
 
-![Apple iPhone 11 Pro Max Screenshot 2](https://user-images.githubusercontent.com/6131216/145158185-3f954b84-0292-4774-b236-b6eff4745452.png){:height="36px" width="36px"}
+![Apple iPhone 11 Pro Max Screenshot 2](https://user-images.githubusercontent.com/6131216/145158185-3f954b84-0292-4774-b236-b6eff4745452.png){: width="200px"}
