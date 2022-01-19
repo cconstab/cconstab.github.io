@@ -52889,7 +52889,7 @@ s.toString
 return s},
 $S:104}
 A.AY.prototype={
-N(a,b){return new A.ri(new A.rx(this.c,null),"KRYZ Demo",A.aaK(null,B.eJ,A.ab1()),null)}}
+N(a,b){return new A.ri(new A.rx(this.c,null),"KRYZ Mariposa Community Radio",A.aaK(null,B.eJ,A.ab1()),null)}}
 A.rx.prototype={
 aC(){return new A.Hk(B.l)}}
 A.Hk.prototype={
