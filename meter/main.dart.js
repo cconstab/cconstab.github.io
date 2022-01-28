@@ -17023,7 +17023,7 @@ var $async$KZ=A.a3(function(b,c){if(b===1)return A.a5(c,r)
 while(true)switch(s){case 0:A.aaS("0","frequency","ip","stationName")
 A.fE("waiting")
 s=2
-return A.ab(A.ap_(A.uG("https://wavi.ng/api?atp=transmitter.wavi@kryz_9850&html=true")),$async$KZ)
+return A.ab(A.ap_(A.uG("https://wavi.ng/api?atp=_transmitter.wavi@kryz_9850&html=true")),$async$KZ)
 case 2:q=c
 p=q.e
 o=A.acR(A.abT(p).c.a.i(0,"charset"))
