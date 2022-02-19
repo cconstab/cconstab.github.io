@@ -1,0 +1,28 @@
+^C:\USERS\COLIN\GITHUB\CCONSTAB\METER\METER\BUILD\WINDOWS\CMAKEFILES\CA1DD50F1CF1CDFA3E905F8ADAEF8D65\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\tools\flutter PROJECT_DIR=C:\Users\colin\GitHub\cconstab\meter\meter FLUTTER_ROOT=C:\tools\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\colin\GitHub\cconstab\meter\meter\windows\flutter\ephemeral PROJECT_DIR=C:\Users\colin\GitHub\cconstab\meter\meter FLUTTER_TARGET=C:\Users\colin\GitHub\cconstab\meter\meter\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\colin\GitHub\cconstab\meter\meter\.dart_tool\package_config.json C:/tools/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\COLIN\GITHUB\CCONSTAB\METER\METER\BUILD\WINDOWS\CMAKEFILES\313B313CE54840B4D56573F60A8B18B5\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\COLIN\GITHUB\CCONSTAB\METER\METER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/colin/GitHub/cconstab/meter/meter/windows -BC:/Users/colin/GitHub/cconstab/meter/meter/build/windows --check-stamp-file C:/Users/colin/GitHub/cconstab/meter/meter/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
