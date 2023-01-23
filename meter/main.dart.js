@@ -98611,7 +98611,7 @@ A.H0.prototype={
 ab(){return new A.a2y(B.k)}}
 A.a2y.prototype={
 aA(){this.aQ()
-var s=A.b9h(A.f_("ws://192.168.1.76:9850",0,null),null).r.b
+var s=A.b9h(A.f_("wss://testkryz.shaduf.com",0,null),null).r.b
 s===$&&A.b()
 s=s.b
 s===$&&A.b()
