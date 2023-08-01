@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Colins Calendar</title>
+  </head>
+  <body>
+    <!-- <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p> -->
+    
+    
+    <!-- Google Calendar Appointment Scheduling begin -->
+    <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+    <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+    <script>
+        (function() {
+            var target = document.currentScript;
+            window.addEventListener('load', function() {
+                calendar.schedulingButton.load({
+                    url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2KBWmDMk1iBI3y5nr7VmZBd332qRwc7E7NLoDxR577YqFeP6-gAM579RIZa1eacWpmUqgpiuz_?gv=true',
+      color: '#F09300',
+      label: 'Book an appointment',
+      target,
+    });
+});
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+</body>
+</html>
